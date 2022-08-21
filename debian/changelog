@@ -1,3 +1,9 @@
+fortunes-br (20220821) unstable; urgency=medium
+
+  * The upstream project was orphan. Taking it and adding to github.
+
+ -- Breno Leitao <leitao@debian>  Sun, 21 Aug 2022 07:48:13 +0100
+
 fortunes-br (20220820) unstable; urgency=medium
 
   * Upgrading to 3.0 source format (Closes: #1007355)
