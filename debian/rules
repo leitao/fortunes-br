@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+# Copyright (C) 2006-2008 Guilherme de S. Pastore <gpastore@debian.org>
+
+include /usr/share/cdbs/1/rules/debhelper.mk
+
+binary-post-install/fortunes-br::
+	strfile debian/fortunes-br/usr/share/games/fortunes/brasil
